@@ -1,2 +1,2 @@
-# earlydays.github.io
+# earlydays.vc
  earlydays.vc
